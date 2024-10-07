@@ -54,7 +54,6 @@ The model achieved an accuracy of 95.33% on the test dataset.
 
 # Future Work
 * Explore transfer learning techniques to improve model performance.
-*  Experiment with data augmentation to increase the diversity of the training dataset.
 * Develop a user-friendly interface for real-time disease classification.
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
