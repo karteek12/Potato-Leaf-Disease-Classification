@@ -23,7 +23,6 @@ The dataset used in this project consists of images of potato leaves (Total of 2
 * Python
 * TensorFlow
 * Keras
-* NumPy
 
 
 # Model Architecture
